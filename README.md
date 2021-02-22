@@ -11,7 +11,7 @@
 
 ### ℹ️ &nbsp;About me:
 
-👨🏻‍💻 💡&nbsp; I'm a passionate learner who's always willing to learn and work across technologies and domains.\
+👨🏻‍💻 💡&nbsp; I'm a passionate learner who's always willing to learn and work across technologies and domains.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
