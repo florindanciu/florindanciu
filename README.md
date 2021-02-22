@@ -4,13 +4,14 @@
   </h2>
 </div>
 
-### ℹ️ &nbsp;About me:
+### 🤝&nbsp; Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florindanciu/)](https://www.linkedin.com/in/florindanciu/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:danciu2020@gmail.com)
 
+### ℹ️ &nbsp;About me:
+
 👨🏻‍💻 💡&nbsp; I'm a passionate learner who's always willing to learn and work across technologies and domains.\
-🤝 🕸️&nbsp; Open for collaborations in web development.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
