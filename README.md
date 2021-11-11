@@ -26,6 +26,9 @@
 
 #### 🔐 &nbsp;Backend: <br />
 
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=csharp&logoColor=FFA518)
+![Entity Framework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&logo=csharp&logoColor=FFA518)
+![GraphQL.NET](https://img.shields.io/badge/-GraphQL.NET-05122A?style=flat&logo=graphql&logoColor=FFA518)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring)
 ![Spring Security](https://img.shields.io/badge/-SpringSecurity-05122A?style=flat&logo=spring)
@@ -49,6 +52,7 @@
 
 #### 🗄 &nbsp;Databases: <br />
 
+![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![H2](https://img.shields.io/badge/Database-H2-05122A?style=flat&logo)
 
